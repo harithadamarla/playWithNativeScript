@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-nodpi\\insta.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-nodpi\\fb.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-nodpi\\twitter.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\twitter.png"
+    }
+]

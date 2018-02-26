@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:3:2-39
+		INJECTED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:3:2-39
+		INJECTED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\F1\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\F1\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\F1\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [com.romandanylyk:pageindicatorview:0.2.0] C:\Users\haritha\.android\build-cache\21255655360c29cb4f66f71bc5d43bfda5985f5e\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\haritha\.android\build-cache\6f7d01b318c29901474c2bb08af27ab75d2d5dc1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\haritha\.android\build-cache\95a8265ec72319f0b3d1bbee32833bac21cde7da\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\haritha\.android\build-cache\f779994f05989148b6417d1da70892331605f777\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\haritha\.android\build-cache\159033a2762bf0dc01413299cdbecbe387c9dcf1\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\haritha\.android\build-cache\0e0c12e9f7944b2746676fe36f8af245b2ca024c\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\haritha\.android\build-cache\ff0142331a4f37762b38585c28e4fe2f2651236d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\haritha\.android\build-cache\79239ab5815c7c8e182653d8dcb69ae98e235dca\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\haritha\.android\build-cache\0df79e364decefc0fd0c5973b1bce370a6345af4\output\AndroidManifest.xml:4:5-43
+MERGED from [:nativescript-optimized:] C:\Users\haritha\.android\build-cache\88f664e419efd513e048a249dc240c0250e717cd\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\haritha\.android\build-cache\b096292a0c84572a7379bb93fb9488c69ea8aa2b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\8a8f9ebf5b581d2feff56ad11a00e468b883db33\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\54a4da028f38340940195aca969707c6f78b59f2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\7ab2200737ea04f2928dc3006bfdaee24f9262ca\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\210eb3780da026dc4a1c7f1a17e7094790ec4a61\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\11ae73a4fe7d6273a53ecab084a4a504080f0fd1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\b55a31f35e5d9addf4d82ff04f0750980de8f749\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\cee1fc5672b3098860a486a9c73d59fa93716992\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\3e1bb58805fdc17bacbee7c8a13c73fac14a2e5f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\efea86932b249d7d5af2bcfef8a6a406bd208c01\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\81bfe11261a62a4d0613f22955ab75acbc0bca88\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\04a5e16256ea32a0fe007bd39d576e9cba66b25a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\67a7f6e453230a5eb52c3639768e30e3e1386b7b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\8a8f9ebf5b581d2feff56ad11a00e468b883db33\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\F1\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\F1\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\haritha\.android\build-cache\6f7d01b318c29901474c2bb08af27ab75d2d5dc1\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\haritha\.android\build-cache\6f7d01b318c29901474c2bb08af27ab75d2d5dc1\output\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\haritha\.android\build-cache\95a8265ec72319f0b3d1bbee32833bac21cde7da\output\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\haritha\.android\build-cache\f779994f05989148b6417d1da70892331605f777\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\haritha\.android\build-cache\159033a2762bf0dc01413299cdbecbe387c9dcf1\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\haritha\.android\build-cache\0e0c12e9f7944b2746676fe36f8af245b2ca024c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\haritha\.android\build-cache\ff0142331a4f37762b38585c28e4fe2f2651236d\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\haritha\.android\build-cache\79239ab5815c7c8e182653d8dcb69ae98e235dca\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\haritha\.android\build-cache\0df79e364decefc0fd0c5973b1bce370a6345af4\output\AndroidManifest.xml:5:5-20
+MERGED from [:widgets-release:] C:\Users\haritha\.android\build-cache\b096292a0c84572a7379bb93fb9488c69ea8aa2b\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\8a8f9ebf5b581d2feff56ad11a00e468b883db33\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\54a4da028f38340940195aca969707c6f78b59f2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\7ab2200737ea04f2928dc3006bfdaee24f9262ca\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\210eb3780da026dc4a1c7f1a17e7094790ec4a61\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\b55a31f35e5d9addf4d82ff04f0750980de8f749\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\cee1fc5672b3098860a486a9c73d59fa93716992\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\3e1bb58805fdc17bacbee7c8a13c73fac14a2e5f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\efea86932b249d7d5af2bcfef8a6a406bd208c01\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\81bfe11261a62a4d0613f22955ab75acbc0bca88\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\04a5e16256ea32a0fe007bd39d576e9cba66b25a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\67a7f6e453230a5eb52c3639768e30e3e1386b7b\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\haritha\.android\build-cache\6f7d01b318c29901474c2bb08af27ab75d2d5dc1\output\AndroidManifest.xml:23:5-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\haritha\.android\build-cache\6f7d01b318c29901474c2bb08af27ab75d2d5dc1\output\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\haritha\.android\build-cache\6f7d01b318c29901474c2bb08af27ab75d2d5dc1\output\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\haritha\.android\build-cache\6f7d01b318c29901474c2bb08af27ab75d2d5dc1\output\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\haritha\.android\build-cache\95a8265ec72319f0b3d1bbee32833bac21cde7da\output\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\haritha\.android\build-cache\95a8265ec72319f0b3d1bbee32833bac21cde7da\output\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\haritha\.android\build-cache\95a8265ec72319f0b3d1bbee32833bac21cde7da\output\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\haritha\.android\build-cache\95a8265ec72319f0b3d1bbee32833bac21cde7da\output\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\haritha\.android\build-cache\ff0142331a4f37762b38585c28e4fe2f2651236d\output\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\haritha\.android\build-cache\ff0142331a4f37762b38585c28e4fe2f2651236d\output\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\haritha\.android\build-cache\ff0142331a4f37762b38585c28e4fe2f2651236d\output\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\8a8f9ebf5b581d2feff56ad11a00e468b883db33\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\54a4da028f38340940195aca969707c6f78b59f2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\7ab2200737ea04f2928dc3006bfdaee24f9262ca\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\210eb3780da026dc4a1c7f1a17e7094790ec4a61\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\11ae73a4fe7d6273a53ecab084a4a504080f0fd1\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\b55a31f35e5d9addf4d82ff04f0750980de8f749\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\cee1fc5672b3098860a486a9c73d59fa93716992\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\3e1bb58805fdc17bacbee7c8a13c73fac14a2e5f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\efea86932b249d7d5af2bcfef8a6a406bd208c01\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\81bfe11261a62a4d0613f22955ab75acbc0bca88\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\04a5e16256ea32a0fe007bd39d576e9cba66b25a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\67a7f6e453230a5eb52c3639768e30e3e1386b7b\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\8a8f9ebf5b581d2feff56ad11a00e468b883db33\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\haritha\.android\build-cache\8a8f9ebf5b581d2feff56ad11a00e468b883db33\output\AndroidManifest.xml:26:9-47

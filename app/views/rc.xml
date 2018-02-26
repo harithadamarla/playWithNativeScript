@@ -1,0 +1,81 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:accordion="nativescript-accordion" navigatingTo="onNavigatingTo" xmlns:ns="nativescript-carousel">
+    <ScrollView orientation="vertical">
+        <StackLayout>
+
+            <StackLayout backgroundColor="#800000" height="50" orientation="vertical">
+                <Label text="WorldFair Resource Center" ></Label>
+            </StackLayout>
+
+           <GridLayout height="250">
+           <ns:Carousel id="myCarousel" height="100%" width="100%" color="white" pageChanged="myChangeEvent" pageTapped="mySelectedEvent"
+                android:indicatorAnimation="slide" items="{{ myDataArray }}" indicatorColor="#fff" indicatorOffset="0, 0" showIndicator="true">
+                <ns:Carousel.itemTemplate>
+                    <ns:CarouselItem  verticalAlignment="center" backgroundColor="{{ color }}">
+                        <GridLayout rows="*" columns="*">
+                            <Image src="https://i.pinimg.com/originals/99/28/5b/99285bfe8f33c0343a3c9e777aafad0e.jpg" stretch="aspectFill" />
+                            <Label text="{{ title }}"  horizontalAlignment="center" verticalAlignment="center"/>
+                        </GridLayout>
+                    </ns:CarouselItem>
+                    <ns:CarouselItem  verticalAlignment="center" backgroundColor="{{ color }}">
+                        <GridLayout rows="*" columns="*">
+                            <Image src="https://i.pinimg.com/originals/e7/fb/b3/e7fbb34b23063ac43ff3d486580fcf7a.jpg" stretch="aspectFill" />
+                            <Label text="{{ title }}"  horizontalAlignment="center" verticalAlignment="center"/>
+                        </GridLayout>
+                    </ns:CarouselItem>
+                </ns:Carousel.itemTemplate>
+            </ns:Carousel>
+            </GridLayout>
+        
+            <!-- <ScrollView orientation="horizontal" showsVerticalScrollIndicator= "false " >
+            
+                <StackLayout orientation="horizontal" class="scroll-menu">
+                    <StackLayout class="scroll-pane">
+                        <Image src="https://i.pinimg.com/originals/99/28/5b/99285bfe8f33c0343a3c9e777aafad0e.jpg" stretch="aspectFill"></Image>                  
+                    </StackLayout>
+                    <StackLayout class="scroll-pane">
+                        <Image src="https://i.pinimg.com/originals/e7/fb/b3/e7fbb34b23063ac43ff3d486580fcf7a.jpg" stretch="aspectFill" ></Image>
+                    </StackLayout>
+                    <StackLayout class="scroll-pane">
+                            <Image src="https://i.pinimg.com/originals/74/4b/51/744b51dd8a4b4ab457b1e8c4d273db54.jpg" stretch="aspectFill" ></Image>         
+                    </StackLayout>
+                    <StackLayout class="scroll-pane">
+                            <Image src="https://i.pinimg.com/736x/14/75/8c/14758cb70350aa5457fa8707eec376a4--indiana-university-this-weekend.jpg" stretch="aspectFill"></Image>       
+                    </StackLayout>
+                    <StackLayout class="scroll-pane">
+                            <Image src="https://i.ytimg.com/vi/U5Fd_LSxX3E/maxresdefault.jpg"  stretch="aspectFill"></Image>  
+                    </StackLayout>
+                
+                </StackLayout>
+            
+            </ScrollView> -->
+            <TextView  text="Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of 'de Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32"
+                maxLength="200" editable="false" textAlign="center" textWrap="true"></TextView >
+               <StackLayout>  
+            
+                <MapView  #mapView [latitude]="latitude" [longitude]="longitude"
+                        [zoom]="zoom" [minZoom]="minZoom" [maxZoom]="maxZoom" [bearing]="bearing"
+                        [tilt]="tilt" i-padding="50,50,50,50" [padding]="padding" (mapReady)="onMapReady($event)"
+                        (markerSelect)="onMarkerEvent($event)" (markerBeginDragging)="onMarkerEvent($event)"
+                        (markerEndDragging)="onMarkerEvent($event)" (markerDrag)="onMarkerEvent($event)"
+                        (markerInfoWindowTapped)="onMarkerEvent($event)" (coordinateTapped)="onCoordinateTapped($event)"
+                        (cameraChanged)="onCameraChanged($event)">
+                </MapView>
+            
+            
+                <SegmentedBar [items]="items" (selectedIndexChange)="onSelectedIndexChange($event)" class="m-5" ></SegmentedBar>
+                    <GridLayout visibility="{{ visibility1 ? 'visible' : 'collapsed' }}" backgroundColor="white">
+                        <Label [text]="'The new selectedIndex is: ' + selectedIndex" class="m-15 h3 p-5 text-center"></Label>
+                    </GridLayout>
+
+                    <GridLayout rows="*" visibility="{{ visibility2 ? 'visible' : 'collapsed' }}" backgroundColor="green">
+                        <Label [text]="'The new selectedIndex is: ' + selectedIndex" class="m-15 h3 p-5 text-center" color="white"></Label>
+                    </GridLayout>
+
+                    <GridLayout rows="*" visibility="{{ visibility3 ? 'visible' : 'collapsed' }}" backgroundColor="red">
+                        <Label [text]="'The new selectedIndex is: ' + selectedIndex" class="m-15 h3 p-5 text-center" color="white"></Label>
+                    </GridLayout>
+            </StackLayout>
+
+        </StackLayout>    
+    </ScrollView>
+</Page>

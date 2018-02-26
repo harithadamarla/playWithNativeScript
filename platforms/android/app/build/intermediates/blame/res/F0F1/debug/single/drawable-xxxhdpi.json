@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\logo.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\insta.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\twitter.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\icon.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\background.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\ic_facebook_black_24dp.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_facebook_black_24dp.png"
+    }
+]

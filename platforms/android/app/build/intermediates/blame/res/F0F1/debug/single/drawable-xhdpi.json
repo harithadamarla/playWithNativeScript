@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\insta.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\fb.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\icon.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\background.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\ic_facebook_black_24dp.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_facebook_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\logo.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\twitter.png",
+        "source": "C:\\Users\\haritha\\Desktop\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\twitter.png"
+    }
+]

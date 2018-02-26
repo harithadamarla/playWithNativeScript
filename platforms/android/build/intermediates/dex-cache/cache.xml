@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\haritha\.android\build-cache\88f664e419efd513e048a249dc240c0250e717cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\haritha\Desktop\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_61efd36d3f99a1a20f085863f4257f68732da183.jar" />
+    </item>
+
+</items>
